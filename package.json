@@ -1,0 +1,15 @@
+{
+  "name": "integrion-coding-assesment",
+  "version": "1.0.0",
+  "description": "Coding assemsent for SWE role at integrion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "swe-coding-assessment"
+  },
+  "author": "Integrion Recruiting Team",
+  "license": "ISC"
+}
