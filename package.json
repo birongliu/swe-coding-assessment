@@ -11,5 +11,8 @@
     "url": "swe-coding-assessment"
   },
   "author": "Integrion Recruiting Team",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
