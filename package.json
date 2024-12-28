@@ -4,7 +4,7 @@
   "description": "Coding assemsent for SWE role at integrion",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
